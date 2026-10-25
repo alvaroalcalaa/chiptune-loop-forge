@@ -1,0 +1,47 @@
+[
+  {
+    "name": "retro-adventure",
+    "args": [
+      "--seed",
+      "42",
+      "--bpm",
+      "120",
+      "--bars",
+      "4",
+      "--root",
+      "60",
+      "--mode",
+      "minor"
+    ]
+  },
+  {
+    "name": "bright-menu",
+    "args": [
+      "--seed",
+      "19",
+      "--bpm",
+      "100",
+      "--bars",
+      "4",
+      "--root",
+      "60",
+      "--mode",
+      "major"
+    ]
+  },
+  {
+    "name": "fast-stage",
+    "args": [
+      "--seed",
+      "77",
+      "--bpm",
+      "160",
+      "--bars",
+      "4",
+      "--root",
+      "62",
+      "--mode",
+      "minor"
+    ]
+  }
+]
